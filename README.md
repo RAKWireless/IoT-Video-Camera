@@ -5,7 +5,7 @@ RAK will provide the source code of Android and IOS APP . So you can design your
 - Android APP     
   - [Camsight Android](https://www.pgyer.com/rakvideotest)
 - IOS APP 
-  -  Search in APPLE STORE with [**RAKVIDEO**].
+  -  Search in APPLE STORE with **RAKVIDEO**.
 - Document Center
   - [www.rakwireless.com/en/download](www.rakwireless.com/en/download)
   - [wiki.rakwireless.com/doku.php](wiki.rakwireless.com/doku.php)
